@@ -1,0 +1,50 @@
+.header{
+    background-color: rgb(253, 251, 131);
+    padding:10px;
+    display: flex;
+    margin-left:20px;
+    margin-right:20px;
+}
+.navbar-nav{
+    display: flexbox;
+}
+.nav-link{
+    margin-top:auto;
+    margin-bottom: auto;
+    margin-left: 30px;
+}
+.nav-link:hover{
+    color:rgb(78, 77, 77);
+}
+.wrapper1{
+    background-color: rgb(255, 223, 223);
+    margin-right:20px;
+    margin-left:20px;
+}
+.wrapper2{
+    margin-left:20px;
+    margin-right:20px;
+}
+.form-select form-select-lg mb-3{
+    width:100px;
+}
+.masterApp{
+    background-color: azure;
+    margin-left:20px;
+    margin-right:20px;
+}
+.button:hover{
+    background-color: aqua;
+}
+.button:disabled{
+    background-color: rgb(79, 78, 78);
+}
+table{
+    border: 1px solid;
+    text-align: center;
+    padding:5px;
+}
+th, td{
+    border: 1pt solid;
+    color:rgb(0, 0, 0);
+}
